@@ -1,4 +1,4 @@
-# ✌️ Matt Nash
+# ✌️ Matt Nash - Yo!
 Executive Product Leader | AI/ML | SaaS | Marketplace | DTC
 
 ## 🚀 Featured Projects
