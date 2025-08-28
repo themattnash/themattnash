@@ -1,11 +1,11 @@
 # ✌️ Matt Nash
 Executive Product Leader | AI/ML | SaaS | Marketplaces | DTC
 
-## 🔑 Featured Projects (Coming Soon) 
-- 🌐 [Portfolio Website - Coming Soon]
-- 📣 [Prompt Library - Coming Soon]
-- 🤖 [Automations - Coming Soon]
-- 🛹 [Prototypes - Coming Soon]
+## 🚀 Featured Projects
+- 🌐 [Portfolio Website](#) – Coming Soon  
+- 📣 [Prompt Library](#) – Coming Soon  
+- 🤖 [Automations](#) – Coming Soon  
+- 🛹 [Prototypes](#) – Coming Soon
 
 ## 🌟 Highlights
 - **🗓️ 15+ years of product leadership** across SaaS platforms, marketplaces, and DTC brands, scaling 0→1 initiatives into global product portfolios and high-performing revenue streams.
