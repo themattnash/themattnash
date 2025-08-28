@@ -1,5 +1,5 @@
 # ✌️ Matt Nash
-Executive Product Leader | AI/ML | SaaS | Marketplaces | DTC
+Executive Product Leader | AI/ML | SaaS | Marketplace | DTC
 
 ## 🚀 Featured Projects
 - 🌐 [Professional Profile](#) – Coming Soon  
