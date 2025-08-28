@@ -1,11 +1,19 @@
-## 👋 Hi, I'm Matt Nash and...
+# ✌️ Matt Nash
+Executive Product Leader | AI/ML | SaaS | Marketplaces | DTC
 
-I'm a product leader with 15+ years of experience building impactful, scalable solutions
-in e-commerce, marketplaces, and SaaS. I love using emerging tech and data to solve
-complex problems, and I thrive on turning ideas into products that users love. With a
-mix of technical know-how and a customer-first mindset, I enjoy working across teams
-to drive growth and make a real difference.
+## 🔑 Featured Projects (Coming Soon) 
+- 🌐 [Portfolio Website - Coming Soon]
+- 📣 [Prompt Library - Coming Soon]
+- 🤖 [Automations - Coming Soon]
+- 🛹 [Prototypes - Coming Soon]
 
-## 🔑 Featured Projects
+## 🌟 Highlights
+- **🗓️ 15+ years of product leadership** across SaaS platforms, marketplaces, and DTC brands, scaling 0→1 initiatives into global product portfolios and high-performing revenue streams.
+- **👨‍💼 Executive people leader with experience managing FTEs** across product, engineering, design, and data science; proven record of building high-performing teams and future leaders.
+- **🚩 Flagship product win**: Launched Trader Interactive’s Digital Retailing product, the first end-to-end eCommerce checkout in the powersports and RV industries, unlocking $150M+ in annual dealer and OEM revenue while creating a new recurring monetization stream.
+- **💰 P&L owner for multi-million-dollar product lines**; accountable for roadmap ROI, subscription growth, and margin expansion through pricing, retention, and upsell strategies.
+- 💾 **Technically fluent across modern stacks** (cloud, data pipelines, AI/ML, APIs, analytics), bridging
+technical depth with executive vision.
 
-Coming Soon
+## 📫 Connect
+- 📎 [LinkedIn](https://www.linkedin.com/in/mattnash)  
