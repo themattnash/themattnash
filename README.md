@@ -2,7 +2,7 @@
 Executive Product Leader | AI/ML | SaaS | Marketplaces | DTC
 
 ## 🚀 Featured Projects
-- 🌐 [Portfolio Website](#) – Coming Soon  
+- 🌐 [Professional Profile](#) – Coming Soon  
 - 📣 [Prompt Library](#) – Coming Soon  
 - 🤖 [Automations](#) – Coming Soon  
 - 🛹 [Prototypes](#) – Coming Soon
