@@ -2,10 +2,7 @@
 Executive Product Leader | AI/ML | SaaS | Marketplace | DTC
 
 ## 🚀 Featured Projects
-- 🌐 [Professional Profile](https://themattnash.com)  
-- 📣 [Prompt Library](#) – Coming Soon  
-- 🤖 [Automations](#) – Coming Soon  
-- 🛹 [Prototypes](#) – Coming Soon
+- 🌐 [Professional Profile](https://themattnash.com)
 
 ## 🌟 Highlights
 - **🗓️ 15+ years of product leadership** across SaaS platforms, marketplaces, and DTC brands, scaling 0→1 initiatives into global product portfolios and high-performing revenue streams.
