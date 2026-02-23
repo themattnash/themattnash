@@ -1,16 +1,37 @@
-# ✌️ Matt Nash
-Executive Product Leader | AI/ML | SaaS | Marketplace | DTC
+## Matt Nash
 
-## 🚀 Featured Projects
-- 🌐 [Professional Profile](https://themattnash.com)
+I design AI products where evaluation and constraints are the architecture — so the system earns trust before it reaches users.
 
-## 🌟 Highlights
-- **🗓️ 15+ years of product leadership** across SaaS platforms, marketplaces, and DTC brands, scaling 0→1 initiatives into global product portfolios and high-performing revenue streams.
-- **🚩 Flagship product win**: Launched Trader Interactive’s Digital Retailing product, the first end-to-end eCommerce checkout in the powersports and RV industries, unlocking $150M+ in annual dealer and OEM revenue while creating a new recurring monetization stream.
-- **👨‍💼 Executive people leader with experience managing FTEs** across product, engineering, design, and data science; proven record of building high-performing teams and future leaders.
-- **💰 P&L owner for multi-million-dollar product lines**; accountable for roadmap ROI, subscription growth, and margin expansion through pricing, retention, and upsell strategies.
-- 💾 **Technically fluent across modern stacks** (cloud, data pipelines, AI/ML, APIs, analytics), bridging
-technical depth with executive vision.
+---
 
-## 📫 Connect
-- 📎 [LinkedIn](https://www.linkedin.com/in/mattnash)  
+### What that means in practice
+
+Most AI systems are designed for the happy path. My work focuses on the other cases:
+
+- **Evaluation first.** Define what success and failure look like before the system is built — not after it ships.
+- **Constraint specification.** What the system must not do is as important as what it should do. Both get written down.
+- **Failure mode mapping.** Failure modes are architectural inputs, not post-launch surprises.
+- **Readiness as judgment.** Deployment decisions are grounded in evidence, not optimism. A benchmark pass is not the same as readiness.
+
+---
+
+### Currently building
+
+| Track | Focus |
+|-------|-------|
+| Evaluation Framework | Principles, metrics taxonomy, and a working eval harness for LLM outputs |
+| Constraint Architecture | Gate design patterns and human-in-the-loop enforcement models |
+| Failure Mode Taxonomy | Detection patterns and mitigation playbooks for common AI failure classes |
+| Working AI System | An eval-first, constraint-aware PRD analyzer |
+
+---
+
+### Background
+
+15 years in product leadership across SaaS platforms, marketplaces, and DTC brands. I became less interested in feature velocity and more focused on a harder question: *how do you know this system is actually ready to deploy?*
+
+Not whether it clears a benchmark. Whether it works in the context where it will be used — under real conditions, against adversarial inputs, for the people who will depend on it.
+
+---
+
+`evaluation` · `constraint architecture` · `failure modes` · `reliability` · `human-in-the-loop`
