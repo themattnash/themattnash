@@ -15,14 +15,31 @@ Most AI systems are designed for the happy path. My work focuses on the other ca
 
 ---
 
-### Currently building
+### Shipped
 
-| Track | Focus |
-|-------|-------|
-| Evaluation Framework | Principles, metrics taxonomy, and a working eval harness for LLM outputs |
-| Constraint Architecture | Gate design patterns and human-in-the-loop enforcement models |
-| Failure Mode Taxonomy | Detection patterns and mitigation playbooks for common AI failure classes |
-| Working AI System | An eval-first, constraint-aware PRD analyzer |
+| Project | What it is |
+|---------|-----------|
+| [adversarial-eval-tool](https://github.com/themattnash/adversarial-eval-tool) | Open-source tool for probing LLM behavioral boundaries. 28-probe library across four adversarial subtypes, dual-metric scoring (refusal rate + exploitation rate), JSON and markdown report generation. |
+| [llm-readiness-platform](https://github.com/themattnash/llm-readiness-platform) | Evaluation framework for LLM-powered features: eval philosophy, metrics taxonomy (7 classes), working harness with ExactMatch, Refusal, and Calibration evaluators. |
+| Constraint Architecture | Reference framework for gate design patterns, human judgment layer design, trust boundaries, and multi-agent enforcement. Gate types: hard, soft, audit, fallback. |
+| Failure Mode Taxonomy | Structured taxonomy of AI failure modes — 10 classes, detection patterns (passive, active, red team), mitigation playbooks at capability and incident level. |
+
+---
+
+### Writing
+
+Essays on evaluation methodology, constraint design, and AI welfare measurement. Published at [themattnash.com/writing](https://themattnash.com/writing).
+
+- [Accuracy Is the Floor, Not the Ceiling](https://themattnash.com/writing/accuracy-is-the-floor) — Why 93% accuracy still leaves the failure boundary unknown.
+- [The Requirement Is Not the Design](https://themattnash.com/writing/the-requirement-is-not-the-design) — The gap between "human oversight required" and human oversight that holds under production conditions.
+- [The Valence Gap](https://themattnash.com/writing/the-valence-gap) — What current AI welfare frameworks cannot measure, and what a better approach would require.
+- [Evaluation Was Always the Work](https://themattnash.com/writing/evaluation-was-always-the-work) — Why the question "how do you know this system is ready?" scales.
+
+---
+
+### Active research
+
+Building a welfare measurement foundation: reading Butlin et al., Birch, Chalmers, Sebo. Background in social sciences (anthropology, sociology, psychology) applied to construct validity problems in AI welfare indicators. Working toward an original measurement framework.
 
 ---
 
@@ -34,4 +51,4 @@ Not whether it clears a benchmark. Whether it works in the context where it will
 
 ---
 
-`evaluation` · `constraint architecture` · `failure modes` · `reliability` · `human-in-the-loop`
+`evaluation` · `adversarial red teaming` · `constraint architecture` · `failure modes` · `reliability` · `human-in-the-loop` · `AI welfare` · `LLM evaluation`
