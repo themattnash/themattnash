@@ -21,8 +21,8 @@ Most AI systems are designed for the happy path. My work focuses on the other ca
 |---------|-----------|
 | [adversarial-eval-tool](https://github.com/themattnash/adversarial-eval-tool) | Open-source tool for probing LLM behavioral boundaries. 28-probe library across four adversarial subtypes, dual-metric scoring (refusal rate + exploitation rate), JSON and markdown report generation. |
 | [llm-readiness-platform](https://github.com/themattnash/llm-readiness-platform) | Evaluation framework for LLM-powered features: eval philosophy, metrics taxonomy (7 classes), working harness with ExactMatch, Refusal, and Calibration evaluators. |
-| Constraint Architecture | Reference framework for gate design patterns, human judgment layer design, trust boundaries, and multi-agent enforcement. Gate types: hard, soft, audit, fallback. |
-| Failure Mode Taxonomy | Structured taxonomy of AI failure modes — 10 classes, detection patterns (passive, active, red team), mitigation playbooks at capability and incident level. |
+| [constraint-architecture](https://github.com/themattnash/constraint-architecture) | Reference framework for gate design patterns, human judgment layer design, trust boundaries, and multi-agent enforcement. Gate types: hard, soft, audit, fallback. |
+| [ai-failure-taxonomy](https://github.com/themattnash/ai-failure-taxonomy) | Structured taxonomy of AI failure modes — 10 classes, detection patterns (passive, active, red team), mitigation playbooks at capability and incident level. |
 
 ---
 
